@@ -1,2 +1,5 @@
 # hello-world
-Start hello world project
+
+Hey there,
+
+I'm creating a GitHub account
